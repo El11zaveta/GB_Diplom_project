@@ -6,7 +6,7 @@ Geek Brains \
 
 <p style="text-align: right;">Разработалa: Сафронова Елизавета Андреевна</p>
 <p style="text-align: center;">Москва</p>
-<p style="text-align: center;">2023</p>
+<p style="text-align: center;">2024</p>
 
 
 
